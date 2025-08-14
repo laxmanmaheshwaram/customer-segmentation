@@ -1,4 +1,4 @@
- Customer Segmentation with Clustering
+                              Customer Segmentation with Clustering
 
 ## 1. Project Overview
 This project applies **unsupervised learning** techniques to segment customers based on their purchasing behavior.  
